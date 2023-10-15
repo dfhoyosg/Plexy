@@ -1,4 +1,4 @@
-This repository, *structdist*, is related to the paper:
+This repository, *Plexy*, is related to the paper:
 
 *Structural analysis and inhibition of human LINE-1 ORF2 protein reveals novel adaptations and functions*
 
