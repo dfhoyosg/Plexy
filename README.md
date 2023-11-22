@@ -1,6 +1,6 @@
 This repository, *Plexy*, is related to the paper:
 
-*Structural analysis and inhibition of human LINE-1 ORF2 protein reveals novel adaptations and functions*
+*Structures, Functions, and Adaptations of the Human LINE-1 ORF2 Protein*
 
 This repository contains data, code, and results regarding the structural information-theoretic analyses in the paper.
 
